@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UselessApp</string>
+    <string name="age">age</string>
+    <string name="button_save">Save</string>
+    <string name="name">Name</string>
+    <string name="error_value_required">value is required</string>
+</resources>
